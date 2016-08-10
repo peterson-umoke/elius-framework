@@ -1,0 +1,12 @@
+[10-Aug-2016 05:43:19 Europe/Berlin] PHP Fatal error:  Class 'jara' not found in C:\xampp\htdocs\elias-framework\public\index.php on line 18
+[10-Aug-2016 05:43:54 Europe/Berlin] PHP Fatal error:  Class 'jara' not found in C:\xampp\htdocs\elias-framework\public\index.php on line 18
+[10-Aug-2016 05:44:06 Europe/Berlin] PHP Fatal error:  Class 'jara' not found in C:\xampp\htdocs\elias-framework\public\index.php on line 18
+[10-Aug-2016 05:44:46 Europe/Berlin] PHP Fatal error:  Class 'jara' not found in C:\xampp\htdocs\elias-framework\public\index.php on line 18
+[10-Aug-2016 05:44:56 Europe/Berlin] PHP Fatal error:  Class 'jara' not found in C:\xampp\htdocs\elias-framework\public\index.php on line 18
+[10-Aug-2016 05:48:47 Europe/Berlin] PHP Fatal error:  Class 'jara' not found in C:\xampp\htdocs\elias-framework\public\index.php on line 18
+[10-Aug-2016 05:49:03 Europe/Berlin] PHP Fatal error:  Class 'jara' not found in C:\xampp\htdocs\elias-framework\public\index.php on line 18
+[10-Aug-2016 05:49:46 Europe/Berlin] PHP Fatal error:  Class 'jara' not found in C:\xampp\htdocs\elias-framework\public\index.php on line 18
+[10-Aug-2016 05:50:19 Europe/Berlin] PHP Fatal error:  Class 'jara' not found in C:\xampp\htdocs\elias-framework\public\index.php on line 18
+[10-Aug-2016 05:50:35 Europe/Berlin] PHP Fatal error:  Class 'jara' not found in C:\xampp\htdocs\elias-framework\public\index.php on line 18
+[10-Aug-2016 05:51:09 Europe/Berlin] PHP Fatal error:  Class 'jara' not found in C:\xampp\htdocs\elias-framework\public\index.php on line 18
+[10-Aug-2016 15:37:41 Europe/Berlin] PHP Fatal error:  Call to undefined method Elias::dispatch() in C:\xampp\htdocs\elias-framework\system\core\elias.php on line 13

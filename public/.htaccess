@@ -1,0 +1,10 @@
+# turn on the rewrite engine again
+RewriteEngine on
+Options -Multiviews
+
+# Making sure it does not fall on a filename or directory
+RewriteCond	%{REQUEST_FILENAME}	!-f
+RewriteCond	%{REQUEST_FILENAME}	!-d
+
+# Pass the urls to the front controller
+RewriteRule ^(.+)$  public/index.php?controller=$1&&method=$2&&parameter=$3    [QSA,L]
